@@ -1,6 +1,6 @@
 # scoped_model_architecture
 
-A new Flutter project.
+Scoped Model Architecture with get_it.
 
 ## Getting Started
 
